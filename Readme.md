@@ -3,7 +3,7 @@ Security Training
 
 ## CTF Edition!
 ```sh
-http://pctf.ant.red/
+http://ant.red/
 ```
 Features:
   - These are hands-on labs that is intended to start following a presentation or video of the materials
