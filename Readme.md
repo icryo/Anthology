@@ -8,7 +8,7 @@
 
 ![Build Status](https://img.shields.io/badge/ITRT-TODO-lightgrey)
 
-![Build Status](https://img.shields.io/badge/ITRT-TODO-lightgrey)
+![Build Status](https://img.shields.io/badge/IOTT-TODO-lightgrey)
 
 
   - SFIC Picking
