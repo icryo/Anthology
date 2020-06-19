@@ -3,7 +3,7 @@
 
 
 ![Build Status](https://img.shields.io/badge/SFIC-Under%20Development-orange)
- -
+ 
 ![Build Status](https://img.shields.io/badge/ANGR-Under%20Development-grey)
   - SFIC Picking
   - Key Duplication
