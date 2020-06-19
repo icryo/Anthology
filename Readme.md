@@ -10,8 +10,12 @@ http://ant.red/
 List:
 
 ![Build Status](https://img.shields.io/badge/SFIC-Under%20Development-orange)
+
+https://github.com/icryo/Anthology-SFIC
  
 ![Build Status](https://img.shields.io/badge/ANGR-TODO-lightgrey)
+
+https://github.com/icryo/Anthology-ANGR
 
 ![Build Status](https://img.shields.io/badge/ITRT-TODO-lightgrey)
 
