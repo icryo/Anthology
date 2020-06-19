@@ -4,7 +4,7 @@
 
 ![Build Status](https://img.shields.io/badge/SFIC-Under%20Development-orange)
  
-![Build Status](https://img.shields.io/badge/ANGR-Under%20Development-grey)
+![Build Status](https://img.shields.io/badge/ANGR-TODO-lightgrey)
   - SFIC Picking
   - Key Duplication
   - Lateral Movement
