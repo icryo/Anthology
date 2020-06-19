@@ -2,7 +2,7 @@
 
 
 
-[![Build Status](https://img.shields.io/badge/SFIC-Under%20Development-orang)](https://travis-ci.org/joemccann/dillinger)
+[![Build Status](https://img.shields.io/badge/SFIC-Under%20Development-orange)](https://travis-ci.org/joemccann/dillinger)
 
   - SFIC Picking
   - Key Duplication
