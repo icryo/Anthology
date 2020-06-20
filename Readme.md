@@ -11,11 +11,11 @@ List:
 
 ![Build Status](https://img.shields.io/badge/SFIC-Under%20Development-orange)
 
-https://github.com/icryo/Anthology-SFIC
+https://github.com/icryo/Anthology-SFIC - Keystone to the Kingdom
  
 ![Build Status](https://img.shields.io/badge/ANGR-TODO-lightgrey)
 
-https://github.com/icryo/Anthology-ANGR
+https://github.com/icryo/Anthology-ANGR - Practical ANGR for exploitation
 
 ![Build Status](https://img.shields.io/badge/ITRT-TODO-lightgrey)
 
